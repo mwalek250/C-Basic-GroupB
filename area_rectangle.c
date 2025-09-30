@@ -10,5 +10,6 @@ printf("Enter Width :\n");
 scanf("%f", &width);
 area=length*width;
 printf("Area of a Rectangle:%.2f\n", area);
+
 return 0;
 }
